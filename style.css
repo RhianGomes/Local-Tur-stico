@@ -1,0 +1,48 @@
+
+body {
+    margin: 0 auto; 
+    padding: 15px 218px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: red;
+    
+}
+
+.destino {
+    border: 1px solid black;
+}
+
+.destino p {
+    color: #333333;
+}
+
+.destino img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+footer p {
+    color: black;
+}
+
+.primeiro{
+    color: purple;
+}
+.segundo{
+    color: rgb(247, 145, 162);
+}
+
+.terçeiro{
+    color: orange;
+}
+
+ul{
+    color: blue;
+}
